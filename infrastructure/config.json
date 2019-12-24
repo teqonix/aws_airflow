@@ -1,0 +1,18 @@
+[
+    {
+      "ParameterKey": "Environment",
+      "ParameterValue": "dev"
+    }, 
+    {
+      "ParameterKey": "Application",
+      "ParameterValue": "aws-wemoexport-processor"
+    },
+    {
+        "ParameterKey": "S3BucketName",
+        "ParameterValue": "dev-aws-wemoexport-processor-bucket"
+    },
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "wemo-processing-airflow"
+    }
+]
